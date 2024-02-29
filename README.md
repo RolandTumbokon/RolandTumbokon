@@ -31,7 +31,7 @@ Webscraping LoL data. Statistical analysis on champion picks.
 #### [GameAware](https://github.com/RolandTumbokon/LoL-Moneyball)
 System that enables interactive, game-aware streaming interfaces on Twitch
 
-
+##
 ### 🛠 Skills
 - Python, Java, Javascript
 - Task automation via AutoHotkey
