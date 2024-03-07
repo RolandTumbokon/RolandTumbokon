@@ -1,7 +1,7 @@
 
 ## Hey it's Roland 👋
 
-I'm a 24 year old Software Engineer from the Philippines
+I'm a 23 year old Software Engineer from the Philippines
 
 Graduated Summa Cum Laude with a B.S. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/)
 
