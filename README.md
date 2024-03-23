@@ -28,7 +28,7 @@ Connects to emulator to create a button display to mimic training modes in fight
 #### [League of Legends Moneyball](https://github.com/RolandTumbokon/LoL-Moneyball)
 Webscraping LoL data. Statistical analysis on champion picks. 
 
-#### [GameAware](https://github.com/RolandTumbokon/LoL-Moneyball)
+#### [GameAware](https://github.com/Ludolab/GameAwareExtension)
 System that enables interactive, game-aware streaming interfaces on Twitch
 
 ##
