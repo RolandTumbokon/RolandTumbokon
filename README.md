@@ -34,10 +34,11 @@ System that enables interactive, game-aware streaming interfaces on Twitch
 ##
 ### 🛠 Skills
 - Python, Java, Javascript
-- Task automation via AutoHotkey
 - UI/UX especially in games
 - ChatGPT prompt engineering
 - Webscraping and preprocessing
+- Machine Learning
 - Excel PowerBI data visualization
+- Task automation via AutoHotkey
 - Logo design; Photoshop
 - Leadership from organizer roles
