@@ -3,7 +3,7 @@
 
 I'm a 23 year old Software Engineer from the Philippines
 
-Graduated Summa Cum Laude with a B.S. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/)
+Graduating Summa Cum Laude with a B.S. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/)
 
 I'm good at games. Sometimes I make stuff for them
 
